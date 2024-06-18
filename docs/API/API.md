@@ -1,0 +1,3 @@
+# API
+
+## GitHub GraphQL API
