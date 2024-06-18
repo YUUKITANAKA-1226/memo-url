@@ -1,7 +1,7 @@
 # README
 
 今まで得た情報をいろいろとまとめる箇所。  
-取りあえずいろいろな URL を以下に記載する。
+取り敢えずいろいろな URL を以下に記載する。
 
 - [GitHub GraphQL API documentation - GitHub Docs](https://docs.github.com/en/graphql)
 - [AWS Amplify Studioが変えるフロントエンド開発の未来とは (zenn.dev)](https://zenn.dev/yoshii0110/articles/9f900b11203834)
